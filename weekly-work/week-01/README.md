@@ -1,22 +1,13 @@
 # Week 1 Introduction
 
-Use this folder for the files produced during the Week 1 introductory activity.
+There is no separate practical file submission for Week 1. This folder is retained so that the portfolio structure remains consistent across the semester.
 
-## What to Upload
+## What to Complete
 
-Upload the output created during the in-class demonstration or exercise. The instructor will identify the required file during class.
-
-Use a descriptive filename that identifies the content. Avoid filenames such as `image1.png`, `new.csv`, or `final-final.png`.
-
-Example:
-
-```text
-printing-output-by-year.png
-```
+Complete `journal/week-01.md` after creating your portfolio repository.
 
 ## Before Finishing
 
-- Confirm that the file appears in this folder.
-- Open it through GitHub to confirm that it uploaded correctly.
-- Complete `journal/week-01.md`.
-
+- Confirm that you can access the central course repository.
+- Confirm that the instructor can access your private portfolio repository.
+- Complete and save `journal/week-01.md`.
