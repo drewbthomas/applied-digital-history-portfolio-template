@@ -2,45 +2,32 @@
 
 **Topic:** Introduction to Applied Digital History  
 
-## 1 Material
+## 1 Why I Am Taking This Course
 
-What material or dataset did you examine during the introductory demonstration?
-
-_Write your response here._
-
-## 2 Processing
-
-Which digital methods or transformations were demonstrated?
+Why are you taking Applied Digital History?
 
 _Write your response here._
 
-## 3 Decisions
+## 2 What I Would Like to Learn
 
-Which modelling or processing decision seemed most consequential?
-
-_Write your response here._
-
-## 4 Difficulties and Unexpected Results
-
-What seemed unfamiliar, unclear, or surprising?
+What would you like to learn or be able to do by the end of the course?
 
 _Write your response here._
 
-## 5 Evidence and Inference
+## 3 Tool or Method That Interests Me
 
-What did one of the outputs show, and what historical inference might it support?
-
-_Write your response here._
-
-## 6 Limitations
-
-Identify one result that could be misleading without additional historical context.
+Which tool or method listed in the course schedule most interests you, and why?
 
 _Write your response here._
 
-## 7 Project Ideas
+## 4 Historical Interests
 
-Which method, historical source, dataset, or research question currently interests you most?
+What type of history do you study or find most interesting? You may mention particular periods, places, themes, approaches, or source types.
 
 _Write your response here._
 
+## 5 Possible Dataset or Project
+
+Do you already have a dataset, collection of sources, or possible project topic in mind? If so, describe it briefly. It is entirely acceptable not to have one yet.
+
+_Write your response here._
