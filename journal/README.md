@@ -16,7 +16,7 @@ week-11.md
 
 Always use two digits for the week number. Do not put spaces in the filename.
 
-The supplied `week-01.md` file provides the journal structure. For later weeks, create a new file and copy the headings and questions from the previous entry before writing your responses.
+The supplied `week-01.md` file is an introductory reflection and uses different questions from the later entries. Beginning in Week 2, create a new file and use the standard weekly questions listed below.
 
 ## How to Create a Journal File on GitHub
 
@@ -24,8 +24,8 @@ The supplied `week-01.md` file provides the journal structure. For later weeks, 
 2. Select **Add file**.
 3. Select **Create new file**.
 4. Enter the filename, such as `week-02.md`.
-5. Copy the journal questions from `week-01.md` into the editor.
-6. Replace the week number and topic.
+5. Copy the standard journal questions listed below into the editor.
+6. Add the week number and topic.
 7. Write your responses beneath the questions.
 8. Select **Commit changes**.
 9. Enter a description such as `Complete Week 2 journal`.
@@ -44,4 +44,3 @@ Address the following questions each week:
 7. Could this method contribute to my final project? Why or why not?
 
 Journal entries should be concise but specific. They should document your reasoning rather than merely list the buttons you selected.
-
